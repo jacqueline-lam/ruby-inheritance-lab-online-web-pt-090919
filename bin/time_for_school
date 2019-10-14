@@ -27,6 +27,7 @@ jim.last_name = "Carrey"
 jackie = Student.new
 jackie.first_name = "Jackie"
 jackie.last_name = "Lam"
-
+new_knowledge = avi.teach 
+jackie.learn("css")
 
 
