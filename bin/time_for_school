@@ -24,5 +24,9 @@ jim = User.new
 jim.first_name = "Jim"
 jim.last_name = "Carrey"
 
+jackie = Student.new
+jackie.first_name = "Jackie"
+jackie.last_name = "Lam"
+
 
 
