@@ -31,3 +31,5 @@ new_knowledge = avi.teach
 jackie.learn("css")
 puts jackie.knowledge
 
+puts steve.knowledge
+
